@@ -1,6 +1,6 @@
 This repo contains some boilerplate Typescript React code and a custom HTTP request function.
 
-You will need Node 14 or later and [Yarn](https://www.npmjs.com/package/yarn) installed.
+You will need Node 18 or later and [Yarn](https://www.npmjs.com/package/yarn) installed.
 
 You should be able to run `yarn install` and then `yarn start` to get the app running locally.
 
